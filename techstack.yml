@@ -1,0 +1,179 @@
+repo_name: martin-creator/pluralsight-ts-advanced-types
+report_id: 07e6b45c6f9d8bfcb98c842c5055aaf9
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-04T07:58:25+00:00'
+requested_by: hendrikswan
+provider: github
+branch: master
+detected_tools_count: 13
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-10-17 12:41:13.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types
+  detection_source: Repo Metadata
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-09-24 07:35:34.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types
+  detection_source: Repo Metadata
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/yarn.lock
+  detection_source: yarn.lock
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-09-24 07:35:34.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-09-24 07:35:34.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 12.7.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-10-17 12:41:13.000000000 Z
+- name: canvas
+  description: Canvas graphics API backed by Cairo
+  package_url: https://www.npmjs.com/canvas
+  version: 2.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16664/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-10-05 14:54:31.000000000 Z
+- name: cross-env
+  description: Run scripts that set and use environment variables across platforms
+  package_url: https://www.npmjs.com/cross-env
+  version: 6.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-10-17 12:41:13.000000000 Z
+- name: image-size
+  description: Get dimensions of any image file
+  package_url: https://www.npmjs.com/image-size
+  version: 0.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16919/default_7fe969828600a90e84607bfa2a19979e53a0579d.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-10-06 17:33:23.000000000 Z
+- name: open
+  description: Open stuff like URLs, files, executables. Cross-platform
+  package_url: https://www.npmjs.com/open
+  version: 6.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16245/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-10-06 11:37:17.000000000 Z
+- name: ts-node
+  description: TypeScript execution environment and REPL for node.js
+  package_url: https://www.npmjs.com/ts-node
+  version: 8.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-10-17 12:41:13.000000000 Z
+- name: tslib
+  description: Runtime library for TypeScript helper functions
+  package_url: https://www.npmjs.com/tslib
+  version: 1.10.0
+  license: 0BSD
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
+  detection_source_url: https://github.com/martin-creator/pluralsight-ts-advanced-types/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Hendrik Swanepoel
+  last_updated_on: 2019-10-05 14:54:31.000000000 Z
